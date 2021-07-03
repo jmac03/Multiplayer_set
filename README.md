@@ -1,7 +1,7 @@
 # Overview
 This program was created to demonstrate a multiplayer game with the Socket and Arcade packages. This program is a multiplayer Set game, built on the card game Set. To play this game, you will search for three cards whose characteristics are all the same, or all different. To run this program, change directories to the directory holding client.py and server.py. Run server.py in terminal first, then run client.py any number of times to add players.
 
-[Software Demo Video](https://youtu.be/OawOv3WRyzM)
+[Software Demo Video](https://youtu.be/ekXrJK9pFa0)
 
 # Development Environment
 * Visual Studio Code
